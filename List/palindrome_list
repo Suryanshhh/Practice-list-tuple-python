@@ -1,0 +1,13 @@
+l1=[]
+for i in range(5):
+    l1.append(int(input("Enter a number: ")))
+
+print("The list that user have entered is:", l1)
+
+isPalindrome=l1.copy()
+isPalindrome.reverse()
+
+if l1==isPalindrome:
+    print("The list is a palindrome")
+else:
+    print("The list is not a palindrome")

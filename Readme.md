@@ -43,9 +43,9 @@ The purpose of this repository is to strengthen core Python concepts, improve pr
 
 ## Repo Structure
 
-├── list_practice.py
-├── tuple_practice.py
-└── README.md
+├── list_practice.py<br>
+├── tuple_practice.py<br>
+└── README.md<br>
 
 ---
 
